@@ -21,7 +21,7 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 ### Links
 
 - Github repository: [Repository](https://github.com/fatihbulbul1/interactive-card-details-form/)
-- Live Site URL: [Live Website](https://fatihbulbul1.github.io/interactive-card-details-form/)
+- Live Site URL: [Live Website](https://fatihbulbul1.github.io/interactive-card-details-form/site)
 
 ### Made with
 - Semantic HTML5 markup
